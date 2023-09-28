@@ -24,6 +24,15 @@ body{
     width: 50%;
   }
 
-  .div{
+  .art{
+    position: fixed;
     display: block;
+    left:400px;
+    bottom: 100px;
+  }
+  .button1{
+    position: fixed;
+    display: block;
+    left: 1200px;
+    bottom:650px;
   }
