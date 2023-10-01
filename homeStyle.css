@@ -33,6 +33,26 @@ body{
   .button1{
     position: fixed;
     display: block;
-    left: 1200px;
-    bottom:650px;
+    left: 850px;
+    bottom:200px;
+  }
+  .button2{
+    position: fixed;
+    display: block;
+    left: 720px;
+    bottom: 110px;
+  }
+
+  .button3{
+    position: fixed;
+    display: block;
+    left: 920px;
+    bottom: 104px;
+  }
+
+  .button4{
+    position: fixed;
+    display: block;
+    left: 830px;
+    bottom: 40px;
   }

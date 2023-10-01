@@ -1,0 +1,15 @@
+table, th, td {
+    border: 1px solid black;
+    
+  }
+  th, td {
+    background-color: #9a813192;
+  }
+
+  .dusk{
+    position: fixed;
+    display: block;
+    height:600px;
+    width: 420px;
+    left: 800px;
+  }
