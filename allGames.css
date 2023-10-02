@@ -5,6 +5,7 @@ table, th, td {
   th, td {
     background-color: #9a813192;
   }
+  /*  */
 
   .dusk{
     position: fixed;
@@ -13,3 +14,5 @@ table, th, td {
     width: 420px;
     left: 800px;
   }
+  /* the first two modify the tables--border and fill*/
+  

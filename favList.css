@@ -4,4 +4,7 @@ body{
     text-align: center;
     background-image: radial-gradient(#ff8a00, #e52e71);
     background-image: radial-gradient(circle at center, #ff8a00, red , #e52e71);
+
+     /* center radius gradient for background */
+  
 }

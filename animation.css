@@ -1,0 +1,13 @@
+div{
+
+    color:goldenrod;
+    animation-name: example;
+    animation-duration: 4s;
+    animation-iteration-count: infinite;
+    animation-direction: alternate;
+}
+
+@keyframes example{
+    from{color:goldenrod}
+    to{color: olive;}
+}
